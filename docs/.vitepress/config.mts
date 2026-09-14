@@ -10,7 +10,7 @@ export default defineConfig({
     lang: "zh-CN",
     title: "WorkBuddy 实战蓝皮书",
     titleTemplate: ":title · WorkBuddy 实战蓝皮书",
-    description: "从安装使用到 AI 工作系统：27 章 WorkBuddy 实战指南与团队落地方法。",
+    description: "从安装使用到 AI 工作系统：28 章 WorkBuddy 实战指南与团队落地方法。",
     cleanUrls: true,
     lastUpdated: true,
     srcExclude: ["**/source.md", "plans/**"],

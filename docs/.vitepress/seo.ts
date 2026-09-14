@@ -8,7 +8,7 @@ const SITE_ALTERNATE_NAME = "WorkBuddy Guide";
 const ORGANIZATION_NAME = "WorkBuddy Guide Contributors";
 const GITHUB_URL = "https://github.com/AlephAITech/WorkBuddyGuide";
 const DEFAULT_DESCRIPTION =
-  "从安装使用到 AI 工作系统：27 章 WorkBuddy 实战指南与团队落地方法。";
+  "从安装使用到 AI 工作系统：28 章 WorkBuddy 实战指南与团队落地方法。";
 
 function cleanPagePath(page: string): string {
   if (page === "index.md") return "/";

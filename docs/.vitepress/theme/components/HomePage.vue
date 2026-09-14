@@ -57,7 +57,7 @@ onMounted(async () => {
     <section class="wb-hero" aria-labelledby="wb-hero-title">
       <div class="wb-hero__stage">
         <div class="wb-hero__copy">
-          <p class="wb-pixel-label">OPEN-SOURCE · 27 CHAPTERS · 2026</p>
+          <p class="wb-pixel-label">OPEN-SOURCE · 28 CHAPTERS · 2026</p>
           <h1 id="wb-hero-title" class="wb-hero__title--bluebook">WorkBuddy蓝皮书</h1>
           <p class="wb-hero__summary">
             WorkBuddy能干嘛？一套以真实工作为主线的WorkBuddy实践路径。带你从0到1先用起来，再从1到100把每次成功沉淀为可复用的工作系统，真正把AI变成生产力！
@@ -86,7 +86,7 @@ onMounted(async () => {
             <PixelIcon name="briefcase" />
           </span>
           <div class="wb-hero__metrics" aria-label="蓝皮书内容规模">
-            <span><b>27</b> CHAPTERS</span>
+            <span><b>28</b> CHAPTERS</span>
             <span><b>4</b> PARTS</span>
             <span><b>∞</b> WORKFLOWS</span>
           </div>
@@ -160,7 +160,7 @@ onMounted(async () => {
         <a class="wb-reading-card" href="/bluebook/第一篇%20使用手册：先把%20WorkBuddy%20用起来/">
           <span class="wb-reading-card__icon"><PixelIcon name="user" /></span>
           <span class="wb-reading-card__content">
-            <small>PART 01 · CH. 01—10</small>
+            <small>PART 01 · CH. 01—11</small>
             <strong>从 0 到 1：先把 WorkBuddy 用起来</strong>
             <span>安装、界面、第一个任务、Skill、连接器、API 与自动化。</span>
             <em><b>新手推荐</b><b>先完成一项任务</b></em>
@@ -171,7 +171,7 @@ onMounted(async () => {
         <a class="wb-reading-card" href="/bluebook/第二篇%20案例篇：从一项任务到一支%20AI%20团队/">
           <span class="wb-reading-card__icon"><PixelIcon name="briefcase" /></span>
           <span class="wb-reading-card__content">
-            <small>PART 02 · CH. 11—21</small>
+            <small>PART 02 · CH. 12—22</small>
             <strong>进入真实案例：让任务开始流动</strong>
             <span>办公、文件、远程、资讯、知识、会议、投资和内容增长。</span>
             <em><b>11 个案例</b><b>任务驱动</b></em>
@@ -182,7 +182,7 @@ onMounted(async () => {
         <a class="wb-reading-card" href="/bluebook/第三篇%20进阶篇：把案例变成自己的工作系统/">
           <span class="wb-reading-card__icon"><PixelIcon name="sitemap" /></span>
           <span class="wb-reading-card__content">
-            <small>PART 03 · CH. 22—25</small>
+            <small>PART 03 · CH. 23—26</small>
             <strong>把案例变成可复用的工作系统</strong>
             <span>打造 Skill、多 Agent 系统设计与可靠的自动化工作流。</span>
             <em><b>系统进阶</b><b>可靠自动化</b></em>
@@ -193,7 +193,7 @@ onMounted(async () => {
         <a class="wb-reading-card" href="/bluebook/第四篇%20岗位与行业落地/">
           <span class="wb-reading-card__icon"><PixelIcon name="users" /></span>
           <span class="wb-reading-card__content">
-            <small>PART 04 · CH. 26—27</small>
+            <small>PART 04 · CH. 27—28</small>
             <strong>落到岗位与行业，组建 AI 团队</strong>
             <span>从通用能力出发，设计适合不同岗位和行业的工作流。</span>
             <em><b>团队落地</b><b>行业路线</b></em>
